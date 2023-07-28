@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 20
+    }
+  ],
+  "users": [
+    {
+      "name": "naseem khan",
+      "email": "naseem.khan9500078@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "mnk",
+      "email": "nhas@mail.com",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "name": "mn khan",
+      "email": "mnkhan@gmail.com",
+      "password": "098765",
+      "id": 3
+    },
+    {
+      "name": "mn khan",
+      "email": "mnkhan@khan.com",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "name": "mn khan",
+      "email": "mnkhan@khan.com",
+      "password": "1234567",
+      "id": 5
+    },
+    {
+      "name": "mn khan",
+      "email": "mnkhan@khan.com",
+      "password": "1234567890",
+      "id": 6
+    },
+    {
+      "name": "nhas@mail.com",
+      "email": "",
+      "password": "1234567",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
